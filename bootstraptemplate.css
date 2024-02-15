@@ -1,0 +1,17 @@
+.header
+{
+    background-color: rgb(66, 65, 65);
+    /* height: 30px; */
+    height: 80px;
+    color: white;
+}
+.navbar 
+{
+    background-color: #212529;
+}
+.im1
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
